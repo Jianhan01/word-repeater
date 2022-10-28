@@ -8,6 +8,6 @@ def main():
     for i in range(1, n+1):
         print(word)
 
-#try
+#try again
 if __name__ == "__main__":
     main()
